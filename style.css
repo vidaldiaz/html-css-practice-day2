@@ -41,7 +41,7 @@ section p {
 li{
     position: relative;
     padding-left: 8%;
-    list-style: none;
+    list-style-position: inside;
 }
 
 section a {
