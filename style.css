@@ -1,0 +1,53 @@
+body {
+    margin: 2% 5%;
+    padding: 0;
+}
+
+img {
+    width: 200px;
+    position: relative;
+    left: 42%;
+    border: 1px solid gray;
+    padding: 3px;
+}
+
+.name {
+    text-align: center;
+    text-decoration-line: underline;
+    background-color: lightgray;
+    padding: 5px 0;
+    font-style: italic;
+}
+
+section h2 {
+    padding-left: 4%;
+    background-color: lightslategray;
+    color: white;
+}
+
+section h4 {
+    padding-left: 6%;
+    background-color: rgba(230, 230, 230, 0.876);
+
+}
+
+section p {
+    padding-left: 10%;
+    background-color: rgba(230, 230, 230, 0.876);
+    padding-right: 3%;
+}
+
+li{
+    position: relative;
+    padding-left: 8%;
+    list-style: none;
+}
+
+section a {
+    position: relative;
+    left: 35%;
+    margin-right: 5%;
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
